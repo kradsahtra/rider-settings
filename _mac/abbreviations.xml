@@ -70,6 +70,8 @@
       </action>
       <action id="GotoDeclaration">
         <abbreviation name="to" />
+        <abbreviation name="navigate" />
+        <abbreviation name="this" />
         <abbreviation name="definition" />
         <abbreviation name="signature" />
         <abbreviation name="method" />
@@ -77,8 +79,6 @@
         <abbreviation name="struct" />
         <abbreviation name="class" />
         <abbreviation name="interface" />
-        <abbreviation name="navigate" />
-        <abbreviation name="this" />
       </action>
       <action id="EditorCodeBlockStart">
         <abbreviation name="to" />
@@ -136,16 +136,16 @@
         <abbreviation name="to" />
         <abbreviation name="derived" />
         <abbreviation name="implementation" />
+        <abbreviation name="Inheritors" />
+        <abbreviation name="interface" />
+        <abbreviation name="Children" />
         <abbreviation name="Inheritance" />
         <abbreviation name="Hierarchy" />
         <abbreviation name="Sub" />
-        <abbreviation name="Inheritors" />
         <abbreviation name="type" />
         <abbreviation name="struct" />
         <abbreviation name="class" />
-        <abbreviation name="interface" />
         <abbreviation name="navigate" />
-        <abbreviation name="Children" />
       </action>
       <action id="SearchEverywhere">
         <abbreviation name="to" />
