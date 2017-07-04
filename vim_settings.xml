@@ -1,0 +1,73 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Gun.cs" timestamp="1499072816179">
+        <mark key="'" line="14" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" timestamp="1499077953579">
+        <mark key="'" line="207" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/kingdom3/Assets/Scripts/make_wall.cs" timestamp="1496229261147">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GunEquipper.cs" timestamp="1499076700279">
+        <mark key="'" line="34" column="15" />
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="27" column="5" />
+        <mark key="^" line="27" column="5" />
+        <mark key="." line="27" column="5" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="20" column="2" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Gun.cs" />
+      <jump line="33" column="11" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GunEquipper.cs" />
+      <jump line="42" column="4" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GunEquipper.cs" />
+      <jump line="10" column="21" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GunEquipper.cs" />
+      <jump line="13" column="4" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GunEquipper.cs" />
+      <jump line="19" column="6" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GunEquipper.cs" />
+      <jump line="22" column="6" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GunEquipper.cs" />
+      <jump line="25" column="6" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GunEquipper.cs" />
+      <jump line="34" column="15" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GunEquipper.cs" />
+      <jump line="156" column="6" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+      <jump line="24" column="41" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+      <jump line="151" column="30" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+      <jump line="152" column="27" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+      <jump line="155" column="28" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+      <jump line="207" column="30" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxtX0Zvb3RzdGVwU291bmRzXD4=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxtX0Zvb3RzdGVwU291bmRzXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxtX0Zvb3RzdGVwU291bmRzXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxtX0FjdGl2ZUd1blw+</entry>
+        <entry encoding="base64">XDxMb2FkV2VhcG9uXD4=</entry>
+        <entry encoding="base64">XDxtX0Zvb3RzdGVwU291bmRzXD4=</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
