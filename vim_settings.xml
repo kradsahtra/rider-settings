@@ -6,8 +6,8 @@
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Gun.cs" timestamp="1499072816179">
         <mark key="'" line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" timestamp="1499154892589">
-        <mark key="'" line="86" column="25" />
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" timestamp="1499155855061">
+        <mark key="'" line="20" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/kingdom3/Assets/Scripts/make_wall.cs" timestamp="1496229261147">
         <mark key="[" line="10" column="19" />
@@ -40,6 +40,11 @@
       <jump line="155" column="28" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
       <jump line="207" column="30" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
       <jump line="86" column="25" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+      <jump line="190" column="42" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+      <jump line="10" column="35" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+      <jump line="189" column="42" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+      <jump line="19" column="84" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+      <jump line="20" column="82" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -49,13 +54,13 @@
         <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtX0Zvb3RzdGVwU291bmRzXD4=</text>
+        <text encoding="base64">XDxtX1J1blNwZWVkXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtX0Zvb3RzdGVwU291bmRzXD4=</last-search>
+      <last-search encoding="base64">XDxtX1J1blNwZWVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtX0Zvb3RzdGVwU291bmRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtX1J1blNwZWVkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -64,6 +69,7 @@
         <entry encoding="base64">XDxtX0FjdGl2ZUd1blw+</entry>
         <entry encoding="base64">XDxMb2FkV2VhcG9uXD4=</entry>
         <entry encoding="base64">XDxtX0Zvb3RzdGVwU291bmRzXD4=</entry>
+        <entry encoding="base64">XDxtX1J1blNwZWVkXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
