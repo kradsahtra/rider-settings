@@ -6,8 +6,8 @@
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Gun.cs" timestamp="1499072816179">
         <mark key="'" line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" timestamp="1499077953579">
-        <mark key="'" line="207" column="30" />
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" timestamp="1499154892589">
+        <mark key="'" line="86" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/kingdom3/Assets/Scripts/make_wall.cs" timestamp="1496229261147">
         <mark key="[" line="10" column="19" />
@@ -39,6 +39,7 @@
       <jump line="152" column="27" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
       <jump line="155" column="28" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
       <jump line="207" column="30" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+      <jump line="86" column="25" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
     </jumps>
     <registers>
       <register name="1" type="2">
