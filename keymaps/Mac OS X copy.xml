@@ -1,0 +1,14 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta alt p" />
+  </action>
+  <action id="IntroduceParameter" />
+  <action id="ParameterInfo" />
+</keymap>

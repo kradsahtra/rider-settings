@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" timestamp="1499155855061">
         <mark key="'" line="20" column="82" />
       </file>
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Constants.cs" timestamp="1499156304737">
+        <mark key="'" line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/kingdom3/Assets/Scripts/make_wall.cs" timestamp="1496229261147">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="26" />
@@ -45,6 +48,7 @@
       <jump line="189" column="42" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
       <jump line="19" column="84" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
       <jump line="20" column="82" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+      <jump line="6" column="13" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Constants.cs" />
     </jumps>
     <registers>
       <register name="1" type="2">
