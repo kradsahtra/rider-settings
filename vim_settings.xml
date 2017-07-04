@@ -3,14 +3,55 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Gun.cs" timestamp="1499072816179">
-        <mark key="'" line="14" column="2" />
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Pistol.cs" timestamp="1499162849581">
+        <mark key="[" line="7" column="78" />
+        <mark key="]" line="7" column="78" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="7" column="78" />
+      </file>
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Ammo.cs" timestamp="1499160971124">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GameUI.cs" timestamp="1499162097563">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="42" />
+        <mark key="^" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1499163911193">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/AssaultRifle.cs" timestamp="1499163310809">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Gun.cs" timestamp="1499162956136">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" timestamp="1499155855061">
         <mark key="'" line="20" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Constants.cs" timestamp="1499156304737">
         <mark key="'" line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Shotgun.cs" timestamp="1499163173208">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Player.cs" timestamp="1499162572017">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/kingdom3/Assets/Scripts/make_wall.cs" timestamp="1496229261147">
         <mark key="[" line="10" column="19" />
@@ -49,13 +90,29 @@
       <jump line="19" column="84" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
       <jump line="20" column="82" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
       <jump line="6" column="13" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Constants.cs" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Gun.cs" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFtTZXJpYWxpemVGaWVsZF0gcHJpdmF0ZSBUZXh0IG1fRW5lbXlUZXh0Owo=</text>
+      </register>
       <register name="1" type="2">
+        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>Down</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBHYW1lVUkgOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwdWJsaWMgCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJCQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="-" type="4">
+        <text>Down</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1J1blNwZWVkXD4=</text>
@@ -79,6 +136,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
