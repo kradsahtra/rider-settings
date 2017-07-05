@@ -60,12 +60,12 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GunEquipper.cs" timestamp="1499076700279">
-        <mark key="'" line="34" column="15" />
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="27" column="5" />
-        <mark key="^" line="27" column="5" />
-        <mark key="." line="27" column="5" />
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GunEquipper.cs" timestamp="1499247191409">
+        <mark key="'" line="39" column="15" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="29" />
+        <mark key="^" line="23" column="28" />
+        <mark key="." line="31" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -95,13 +95,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFtTZXJpYWxpemVGaWVsZF0gcHJpdmF0ZSBUZXh0IG1fRW5lbXlUZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgR2FtZVVJLlVwZGF0ZVJldGljbGUoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>AssaultRifle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgR2FtZVVJLlVwZGF0ZVJldGljbGUoKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBHYW1lVUkgOwo=</text>
