@@ -38,8 +38,11 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" timestamp="1499155855061">
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" timestamp="1499251207796">
         <mark key="'" line="20" column="82" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Constants.cs" timestamp="1499156304737">
         <mark key="'" line="5" column="13" />
@@ -102,7 +105,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>LiveFire</text>
@@ -114,31 +117,31 @@
         <text encoding="base64">ICAgICAgR2V0Q29tcG9uZW50PEF1ZGlvU291cmNlPigpLlBsYXlPbmVTaG90KExpdmVGaXJlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaW50IG4gPSBSYW5kb20uUmFuZ2UoMSwgbV9Gb290c3RlcFNvdW5kcy5MZW5ndGgpOwogICAgICBtX0F1ZGlvU291cmNlLmNsaXAgPSBtX0Zvb3RzdGVwU291bmRzW25dOwogICAgICBtX0F1ZGlvU291cmNlLlBsYXlPbmVTaG90KG1fQXVkaW9Tb3VyY2UuY2xpcCk7CiAgICAgIC8vIG1vdmUgcGlja2VkIHNvdW5kIHRvIGluZGV4IDAgc28gaXQncyBub3QgcGlja2VkIG5leHQgdGltZQogICAgICBtX0Zvb3RzdGVwU291bmRzW25dID0gbV9Gb290c3RlcFNvdW5kc1swXTsKICAgICAgbV9Gb290c3RlcFNvdW5kc1swXSA9IG1fQXVkaW9Tb3VyY2UuY2xpcDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICgpIHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIERlYnVnLkxvZ0Vycm9yKCk7IAo=</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGFqawo=</text>
+        <text encoding="base64">ICAgIGlmICgpIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIERlYnVnLkxvZ0Vycm9yKCk7IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
+        <text encoding="base64">ICAgICAgdGFqawo=</text>
       </register>
     </registers>
     <search>
