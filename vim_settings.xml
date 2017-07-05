@@ -15,11 +15,11 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GameUI.cs" timestamp="1499162097563">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="42" />
-        <mark key="^" line="17" column="42" />
-        <mark key="." line="17" column="42" />
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GameUI.cs" timestamp="1499246222580">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="30" column="18" />
+        <mark key="^" line="30" column="18" />
+        <mark key="." line="30" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1499163911193">
         <mark key="[" line="0" column="0" />
@@ -101,7 +101,7 @@
         <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Down</text>
+        <text>AssaultRifle</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBHYW1lVUkgOwo=</text>
@@ -113,7 +113,7 @@
         <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Down</text>
+        <text>AssaultRifle</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1J1blNwZWVkXD4=</text>
