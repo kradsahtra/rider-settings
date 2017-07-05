@@ -9,11 +9,12 @@
         <mark key="^" line="12" column="12" />
         <mark key="." line="7" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Ammo.cs" timestamp="1499160971124">
-        <mark key="[" line="10" column="43" />
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="1" />
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Ammo.cs" timestamp="1499249662128">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="49" column="18" />
+        <mark key="]" line="49" column="20" />
+        <mark key="^" line="49" column="20" />
+        <mark key="." line="49" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GameUI.cs" timestamp="1499246222580">
         <mark key="[" line="23" column="34" />
@@ -30,12 +31,12 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Gun.cs" timestamp="1499244294441">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="38" />
-        <mark key="." line="15" column="38" />
-        <mark key="^" line="15" column="38" />
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Gun.cs" timestamp="1499250273651">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="19" column="56" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" timestamp="1499155855061">
         <mark key="'" line="20" column="82" />
@@ -92,31 +93,52 @@
       <jump line="20" column="82" filename="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
       <jump line="6" column="13" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Constants.cs" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Gun.cs" />
+      <jump line="48" column="0" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Ammo.cs" />
+      <jump line="8" column="55" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Ammo.cs" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Ammo.cs" />
+      <jump line="49" column="21" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Ammo.cs" />
+      <jump line="51" column="0" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Ammo.cs" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Ammo.cs" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgR2FtZVVJLlVwZGF0ZVJldGljbGUoKTsK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgR2FtZVVJLlVwZGF0ZVJldGljbGUoKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBHYW1lVUkgOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwdWJsaWMgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>AssaultRifle</text>
+        <text>LiveFire</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1J1blNwZWVkXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgR2V0Q29tcG9uZW50PEF1ZGlvU291cmNlPigpLlBsYXlPbmVTaG90KExpdmVGaXJlKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmICgpIHsKICAgICAgCiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIERlYnVnLkxvZ0Vycm9yKCk7IAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdGFqawo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
       </register>
     </registers>
     <search>
@@ -138,8 +160,11 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
