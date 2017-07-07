@@ -24,12 +24,12 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Gun.cs" timestamp="1499250273651">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="19" column="56" />
-        <mark key="]" line="20" column="25" />
-        <mark key="." line="20" column="25" />
-        <mark key="^" line="20" column="25" />
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Gun.cs" timestamp="1499413973446">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="23" column="59" />
+        <mark key="." line="23" column="59" />
+        <mark key="^" line="23" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" timestamp="1499251207796">
         <mark key="'" line="20" column="82" />
@@ -131,7 +131,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;health: &quot;</text>
@@ -143,31 +143,31 @@
         <text>leftHealth - Health</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3Rhcgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQ29tcG9uZW50VXRpbGl0eS5Jc0Rlc2lyZWRDb21wb25lbnQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChBcm1vciA+IDApIHsKICAgICAgdmFyIGVmZmVjdGl2ZUFybW9yID0gQXJtb3I7CiAgICAgIGVmZmVjdGl2ZUFybW9yIC09IGFtb3VudDsKICAgICAgaWYgKGVmZmVjdGl2ZUFybW9yID4gMCkgewogICAgICAgIEFybW9yID0gZWZmZWN0aXZlQXJtb3I7CiAgICAgICAgcmV0dXJuOwogICAgICB9CiAgICAgIEFybW9yID0gMDsKICAgIH0KCiAgICBIZWFsdGggLT0gYW1vdW50OwogICAgRGVidWcuTG9nKCJQbGF5IEhlYWx0aCBpcyAiICsgSGVhbHRoKTsKCiAgICBpZiAoSGVhbHRoIDw9IDApIHsKICAgICAgRGVidWcuTG9nKCJHYW1lT3ZlciIpOwogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBoZWFsdGhEYW1hZ2UgPSBhbW91bnQ7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCBoZWFsdGhEYW1hZ2UgPSBhbW91bnQ7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY2FtZXJhLm1haW4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgc3Rhcgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgQ29tcG9uZW50VXRpbGl0eS5Jc0Rlc2lyZWRDb21wb25lbnQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIChBcm1vciA+IDApIHsKICAgICAgdmFyIGVmZmVjdGl2ZUFybW9yID0gQXJtb3I7CiAgICAgIGVmZmVjdGl2ZUFybW9yIC09IGFtb3VudDsKICAgICAgaWYgKGVmZmVjdGl2ZUFybW9yID4gMCkgewogICAgICAgIEFybW9yID0gZWZmZWN0aXZlQXJtb3I7CiAgICAgICAgcmV0dXJuOwogICAgICB9CiAgICAgIEFybW9yID0gMDsKICAgIH0KCiAgICBIZWFsdGggLT0gYW1vdW50OwogICAgRGVidWcuTG9nKCJQbGF5IEhlYWx0aCBpcyAiICsgSGVhbHRoKTsKCiAgICBpZiAoSGVhbHRoIDw9IDApIHsKICAgICAgRGVidWcuTG9nKCJHYW1lT3ZlciIpOwogICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhciBoZWFsdGhEYW1hZ2UgPSBhbW91bnQ7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgR2FtZU9iamVjdCBtX01pc3NpbGVQcmVmYWI7Cg==</text>
+        <text encoding="base64">ICAgIGludCBoZWFsdGhEYW1hZ2UgPSBhbW91bnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
     </registers>
     <search>
