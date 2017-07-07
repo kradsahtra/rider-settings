@@ -37,12 +37,18 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Robot.cs" timestamp="1499397275999">
-        <mark key="'" line="12" column="30" />
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="3" />
-        <mark key="." line="35" column="3" />
-        <mark key="^" line="35" column="3" />
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Robot.cs" timestamp="1499399092670">
+        <mark key="'" line="5" column="49" />
+        <mark key="[" line="36" column="47" />
+        <mark key="]" line="38" column="67" />
+        <mark key="." line="38" column="67" />
+        <mark key="^" line="38" column="67" />
+      </file>
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Missile.cs" timestamp="1499398989306">
+        <mark key="'" line="9" column="2" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Ammo.cs" timestamp="1499249662128">
         <mark key="'" line="6" column="0" />
@@ -60,10 +66,11 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Player.cs" timestamp="1499162572017">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Player.cs" timestamp="1499399652982">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+        <mark key="^" line="31" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/kingdom3/Assets/Scripts/make_wall.cs" timestamp="1496229261147">
         <mark key="[" line="10" column="19" />
@@ -117,13 +124,15 @@
       <jump line="8" column="0" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Robot.cs" />
       <jump line="13" column="19" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Robot.cs" />
       <jump line="12" column="30" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Robot.cs" />
+      <jump line="9" column="2" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Missile.cs" />
+      <jump line="5" column="49" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Robot.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Robot</text>
+        <text>m_Ammo</text>
       </register>
       <register name="-" type="4">
-        <text>Robot</text>
+        <text>m_Ammo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1JvYm90VHlwZVw+</text>
@@ -132,31 +141,31 @@
         <text encoding="base64">ICAgICAgR2V0Q29tcG9uZW50PEF1ZGlvU291cmNlPigpLlBsYXlPbmVTaG90KExpdmVGaXJlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBSZVNoYXJwZXIgZGlzYWJsZSBvbmNlIEluY29uc2lzdGVudE5hbWluZwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERlYnVnLkxvZygiRmlyZSIpOwo=</text>
+        <text encoding="base64">ICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgR2FtZU9iamVjdCBtX01pc3NpbGVQcmVmYWI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAvLyBVc2UgdGhpcyBmb3IgaW5pdGlhbGl6YXRpb24K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRmlyZVJhdGUoKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyBVc2UgdGhpcyBmb3IgaW5pdGlhbGl6YXRpb24K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQl5aWVsZCBicmVhazsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBsYXllciA9IAo=</text>
+        <text encoding="base64">ICAvLyBSZVNoYXJwZXIgZGlzYWJsZSBvbmNlIEluY29uc2lzdGVudE5hbWluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERlYnVnLkxvZygiRmlyZSIpOwo=</text>
       </register>
     </registers>
     <search>
