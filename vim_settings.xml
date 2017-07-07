@@ -44,11 +44,12 @@
         <mark key="." line="38" column="67" />
         <mark key="^" line="38" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Missile.cs" timestamp="1499398989306">
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Missile.cs" timestamp="1499410100045">
         <mark key="'" line="9" column="2" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+        <mark key="^" line="24" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Ammo.cs" timestamp="1499249662128">
         <mark key="'" line="6" column="0" />
@@ -66,11 +67,11 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Player.cs" timestamp="1499399652982">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="17" />
-        <mark key="." line="31" column="17" />
-        <mark key="^" line="31" column="17" />
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Player.cs" timestamp="1499409755158">
+        <mark key="[" line="23" column="57" />
+        <mark key="]" line="23" column="61" />
+        <mark key="." line="23" column="61" />
+        <mark key="^" line="23" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/kingdom3/Assets/Scripts/make_wall.cs" timestamp="1496229261147">
         <mark key="[" line="10" column="19" />
@@ -129,43 +130,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m_Ammo</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>m_Ammo</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1JvYm90VHlwZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgR2V0Q29tcG9uZW50PEF1ZGlvU291cmNlPigpLlBsYXlPbmVTaG90KExpdmVGaXJlKTsK</text>
+      <register name="0" type="4">
+        <text>leftHealth - Health</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIChBcm1vciA+IDApIHsKICAgICAgdmFyIGVmZmVjdGl2ZUFybW9yID0gQXJtb3I7CiAgICAgIGVmZmVjdGl2ZUFybW9yIC09IGFtb3VudDsKICAgICAgaWYgKGVmZmVjdGl2ZUFybW9yID4gMCkgewogICAgICAgIEFybW9yID0gZWZmZWN0aXZlQXJtb3I7CiAgICAgICAgcmV0dXJuOwogICAgICB9CiAgICAgIEFybW9yID0gMDsKICAgIH0KCiAgICBIZWFsdGggLT0gYW1vdW50OwogICAgRGVidWcuTG9nKCJQbGF5IEhlYWx0aCBpcyAiICsgSGVhbHRoKTsKCiAgICBpZiAoSGVhbHRoIDw9IDApIHsKICAgICAgRGVidWcuTG9nKCJHYW1lT3ZlciIpOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgR2FtZU9iamVjdCBtX01pc3NpbGVQcmVmYWI7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBoZWFsdGhEYW1hZ2UgPSBhbW91bnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGludCBoZWFsdGhEYW1hZ2UgPSBhbW91bnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBVc2UgdGhpcyBmb3IgaW5pdGlhbGl6YXRpb24K</text>
+        <text encoding="base64">ICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgR2FtZU9iamVjdCBtX01pc3NpbGVQcmVmYWI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl5aWVsZCBicmVhazsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBSZVNoYXJwZXIgZGlzYWJsZSBvbmNlIEluY29uc2lzdGVudE5hbWluZwo=</text>
+        <text encoding="base64">ICAvLyBVc2UgdGhpcyBmb3IgaW5pdGlhbGl6YXRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERlYnVnLkxvZygiRmlyZSIpOwo=</text>
+        <text encoding="base64">ICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCg==</text>
       </register>
     </registers>
     <search>
