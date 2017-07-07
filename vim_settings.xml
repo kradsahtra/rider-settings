@@ -37,12 +37,12 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Robot.cs" timestamp="1499414808290">
-        <mark key="'" line="4" column="13" />
-        <mark key="[" line="53" column="34" />
-        <mark key="]" line="53" column="34" />
-        <mark key="." line="53" column="34" />
-        <mark key="^" line="53" column="34" />
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Robot.cs" timestamp="1499421583546">
+        <mark key="'" line="48" column="37" />
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="63" />
+        <mark key="." line="60" column="63" />
+        <mark key="^" line="60" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Missile.cs" timestamp="1499410100045">
         <mark key="'" line="9" column="2" />
@@ -80,6 +80,12 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Game.cs" timestamp="1499421229461">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Player.cs" timestamp="1499415762966">
         <mark key="'" line="17" column="13" />
         <mark key="[" line="46" column="59" />
@@ -92,6 +98,12 @@
         <mark key="]" line="10" column="26" />
         <mark key="." line="10" column="26" />
         <mark key="^" line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/RobotSpawn.cs" timestamp="1499420733868">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="55" />
+        <mark key="." line="14" column="55" />
+        <mark key="^" line="14" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GunEquipper.cs" timestamp="1499393588264">
         <mark key="'" line="18" column="22" />
@@ -146,13 +158,14 @@
       <jump line="15" column="13" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Player.cs" />
       <jump line="13" column="10" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/PickupSpawn.cs" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/PickupSpawn.cs" />
+      <jump line="48" column="37" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Robot.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJR2V0Q29tcG9uZW50PD4oKQo=</text>
+        <text encoding="base64">ICAgIFN0YXJ0Q29yb3V0aW5lKERlc3Ryb3lSb2JvdCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>nwe</text>
+        <text>COLLECTION</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1JvYm90VHlwZVw+</text>
@@ -161,31 +174,31 @@
         <text>leftHealth - Health</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJR2V0Q29tcG9uZW50PD4oKQo=</text>
+        <text encoding="base64">ICAgIFN0YXJ0Q29yb3V0aW5lKERlc3Ryb3lSb2JvdCgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBVc2UgdGhpcyBmb3IgaW5pdGlhbGl6YXRpb24KICB2b2lkIFN0YXJ0KCkgeyB9CgogIC8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKICB2b2lkIFVwZGF0ZSgpIHsgfQo=</text>
+        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CQkJR2V0Q29tcG9uZW50PD4oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2FtZXJhLm1haW4K</text>
+        <text encoding="base64">ICAvLyBVc2UgdGhpcyBmb3IgaW5pdGlhbGl6YXRpb24KICB2b2lkIFN0YXJ0KCkgeyB9CgogIC8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKICB2b2lkIFVwZGF0ZSgpIHsgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3Rhcgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQ29tcG9uZW50VXRpbGl0eS5Jc0Rlc2lyZWRDb21wb25lbnQK</text>
+        <text encoding="base64">ICAgICAgY2FtZXJhLm1haW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChBcm1vciA+IDApIHsKICAgICAgdmFyIGVmZmVjdGl2ZUFybW9yID0gQXJtb3I7CiAgICAgIGVmZmVjdGl2ZUFybW9yIC09IGFtb3VudDsKICAgICAgaWYgKGVmZmVjdGl2ZUFybW9yID4gMCkgewogICAgICAgIEFybW9yID0gZWZmZWN0aXZlQXJtb3I7CiAgICAgICAgcmV0dXJuOwogICAgICB9CiAgICAgIEFybW9yID0gMDsKICAgIH0KCiAgICBIZWFsdGggLT0gYW1vdW50OwogICAgRGVidWcuTG9nKCJQbGF5IEhlYWx0aCBpcyAiICsgSGVhbHRoKTsKCiAgICBpZiAoSGVhbHRoIDw9IDApIHsKICAgICAgRGVidWcuTG9nKCJHYW1lT3ZlciIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
