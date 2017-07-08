@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1499179682435">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Gun.cs" timestamp="1499072816179">
         <mark key="'" line="14" column="2" />
       </file>
