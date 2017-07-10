@@ -9,11 +9,12 @@
         <mark key="^" line="12" column="12" />
         <mark key="." line="7" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GameUI.cs" timestamp="1499246222580">
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="30" column="18" />
-        <mark key="^" line="30" column="18" />
-        <mark key="." line="30" column="18" />
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GameUI.cs" timestamp="1499682192749">
+        <mark key="'" line="21" column="2" />
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="44" column="43" />
+        <mark key="^" line="44" column="43" />
+        <mark key="." line="44" column="43" />
       </file>
       <file name="/Dummy.txt" timestamp="1499163911193">
         <mark key="[" line="0" column="0" />
@@ -159,19 +160,20 @@
       <jump line="13" column="10" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/PickupSpawn.cs" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/PickupSpawn.cs" />
       <jump line="48" column="37" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Robot.cs" />
+      <jump line="21" column="2" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GameUI.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN0YXJ0Q29yb3V0aW5lKERlc3Ryb3lSb2JvdCgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>ArmorText</text>
       </register>
       <register name="-" type="4">
-        <text>COLLECTION</text>
+        <text>ArmorText</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1JvYm90VHlwZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>leftHealth - Health</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgVGV4dCBtX0FybW9yVGV4dDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFN0YXJ0Q29yb3V0aW5lKERlc3Ryb3lSb2JvdCgpKTsK</text>
