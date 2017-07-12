@@ -9,12 +9,12 @@
         <mark key="^" line="12" column="12" />
         <mark key="." line="7" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GameUI.cs" timestamp="1499849667182">
+      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GameUI.cs" timestamp="1499850750256">
         <mark key="'" line="18" column="34" />
-        <mark key="[" line="89" column="17" />
-        <mark key="]" line="89" column="38" />
-        <mark key="^" line="61" column="40" />
-        <mark key="." line="89" column="17" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="38" column="32" />
+        <mark key="^" line="38" column="32" />
+        <mark key="." line="38" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1499163911193">
         <mark key="[" line="0" column="0" />
@@ -174,17 +174,18 @@
       <jump line="89" column="62" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Player.cs" />
       <jump line="31" column="14" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Player.cs" />
       <jump line="14" column="32" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GameUI.cs" />
+      <jump line="17" column="32" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GameUI.cs" />
       <jump line="18" column="34" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GameUI.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LkdldENvbXBvbmVudDxUZXh0Pigp</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>enabled = true;</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbGF5ZXJcPg==</text>
+        <text encoding="base64">XDxtX1BsYXllclw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">LkdldENvbXBvbmVudDxUZXh0Pigp</text>
@@ -218,9 +219,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbGF5ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxtX1BsYXllclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbGF5ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtX1BsYXllclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -235,6 +236,8 @@
         <entry encoding="base64">XDxQaWNrdXBJdGVtXD4=</entry>
         <entry encoding="base64">XDxtX1dhdmVUZXh0XD4=</entry>
         <entry encoding="base64">XDxwbGF5ZXJcPg==</entry>
+        <entry encoding="base64">XDxtX05ld1dhdmVUZXh0XD4=</entry>
+        <entry encoding="base64">XDxtX1BsYXllclw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
