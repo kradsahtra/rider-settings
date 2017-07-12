@@ -31,6 +31,9 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="FindNext" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
@@ -47,6 +50,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="GotoImplementation" />
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
