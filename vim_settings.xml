@@ -16,7 +16,7 @@
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499163911193">
+      <file name="/Dummy.txt" timestamp="1499945891739">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/AssaultRifle.cs" timestamp="1499163310809">
@@ -70,6 +70,12 @@
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/SuperSoyBoy/Assets/Scripts/CameraLerpToTransform.cs" timestamp="1499945439235">
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="17" column="58" />
+        <mark key="." line="17" column="58" />
+        <mark key="^" line="17" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Constants.cs" timestamp="1499156304737">
         <mark key="'" line="5" column="13" />
@@ -190,11 +196,11 @@
       <jump line="25" column="21" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Player.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEd1bkVxdWlwcGVyIEd1bkVxdWlwcGVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>TargetCamera</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>TargetCamera</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1BsYXllclw+</text>
@@ -203,31 +209,31 @@
         <text encoding="base64">LkdldENvbXBvbmVudDxUZXh0Pigp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEd1bkVxdWlwcGVyIEd1bkVxdWlwcGVyOwo=</text>
+        <text encoding="base64">ICAvLyBVc2UgdGhpcyBmb3IgaW5pdGlhbGl6YXRpb24KICB2b2lkIFN0YXJ0KCkgeyB9CgogIC8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKICB2b2lkIFVwZGF0ZSgpIHsgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRGVidWcuTG9nKCJHYW1lT3ZlciIpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIEd1bkVxdWlwcGVyIEd1bkVxdWlwcGVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
+        <text encoding="base64">ICAgICAgRGVidWcuTG9nKCJHYW1lT3ZlciIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
+        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgU3RhcnQoKSB7IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgU3RhcnQoKSB7IH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwamtrCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwamtrCg==</text>
       </register>
     </registers>
     <search>
