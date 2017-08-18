@@ -52,9 +52,6 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Constants.cs" timestamp="1499156304737">
-        <mark key="'" line="5" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Ammo.cs" timestamp="1499846972268">
         <mark key="'" line="4" column="13" />
         <mark key="[" line="50" column="45" />
@@ -81,6 +78,13 @@
         <mark key="]" line="41" column="44" />
         <mark key="." line="41" column="44" />
         <mark key="^" line="41" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/SuperSoyBoy/Assets/Scripts/SoyBoyController.cs" timestamp="1503056009105">
+        <mark key="'" line="6" column="28" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Pickup.cs" timestamp="1499847660911">
         <mark key="[" line="8" column="41" />
@@ -196,13 +200,14 @@
       <jump line="18" column="34" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GameUI.cs" />
       <jump line="25" column="21" filename="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Player.cs" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/SuperSoyBoy/Assets/Scripts/CameraLerpToTransform.cs" />
+      <jump line="6" column="28" filename="$USER_HOME$/workspace/SuperSoyBoy/Assets/Scripts/SoyBoyController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TargetCamera</text>
+        <text>NewBehaviourScript</text>
       </register>
       <register name="-" type="4">
-        <text>TargetCamera</text>
+        <text>NewBehaviourScript</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1BsYXllclw+</text>
