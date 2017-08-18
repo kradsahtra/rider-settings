@@ -79,11 +79,11 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="41" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/SuperSoyBoy/Assets/Scripts/SoyBoyController.cs" timestamp="1503058674108">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="10" column="30" />
+      <file name="$USER_HOME$/workspace/SuperSoyBoy/Assets/Scripts/SoyBoyController.cs" timestamp="1503059681979">
+        <mark key="[" line="32" column="9" />
+        <mark key="]" line="33" column="47" />
+        <mark key="." line="33" column="47" />
+        <mark key="^" line="33" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Pickup.cs" timestamp="1499847660911">
         <mark key="[" line="8" column="41" />
@@ -202,11 +202,11 @@
       <jump line="6" column="28" filename="$USER_HOME$/workspace/SuperSoyBoy/Assets/Scripts/SoyBoyController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sr</text>
+        <text>el</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1BsYXllclw+</text>
@@ -215,31 +215,31 @@
         <text encoding="base64">LkdldENvbXBvbmVudDxUZXh0Pigp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBVc2UgdGhpcyBmb3IgaW5pdGlhbGl6YXRpb24KICB2b2lkIFN0YXJ0KCkgeyB9CgogIC8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKICB2b2lkIFVwZGF0ZSgpIHsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEd1bkVxdWlwcGVyIEd1bkVxdWlwcGVyOwo=</text>
+        <text encoding="base64">ICAgIC8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgRGVidWcuTG9nKCJHYW1lT3ZlciIpOwo=</text>
+        <text encoding="base64">ICAvLyBVc2UgdGhpcyBmb3IgaW5pdGlhbGl6YXRpb24KICB2b2lkIFN0YXJ0KCkgeyB9CgogIC8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKICB2b2lkIFVwZGF0ZSgpIHsgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
+        <text encoding="base64">ICBwcml2YXRlIEd1bkVxdWlwcGVyIEd1bkVxdWlwcGVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
+        <text encoding="base64">ICAgICAgRGVidWcuTG9nKCJHYW1lT3ZlciIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgU3RhcnQoKSB7IH0K</text>
+        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
@@ -273,6 +273,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
