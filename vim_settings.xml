@@ -79,12 +79,12 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="41" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/SuperSoyBoy/Assets/Scripts/SoyBoyController.cs" timestamp="1503118305578">
+      <file name="$USER_HOME$/workspace/SuperSoyBoy/Assets/Scripts/SoyBoyController.cs" timestamp="1503197973757">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="32" column="47" />
-        <mark key="." line="32" column="47" />
-        <mark key="^" line="32" column="47" />
+        <mark key="[" line="35" column="107" />
+        <mark key="]" line="36" column="77" />
+        <mark key="." line="36" column="77" />
+        <mark key="^" line="36" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Pickup.cs" timestamp="1499847660911">
         <mark key="[" line="8" column="41" />
@@ -205,11 +205,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/SuperSoyBoy/Assets/Scripts/SoyBoyController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>((_input.x * Speed) - _rigidbody2D.velocity.x) * Acceleration, 0</text>
       </register>
       <register name="-" type="4">
-        <text>el</text>
+        <text>((_input.x * Speed) - _rigidbody2D.velocity.x) * Acceleration, 0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1BsYXllclw+</text>
