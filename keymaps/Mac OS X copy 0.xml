@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X copy 0" parent="Mac OS X">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -6,6 +9,9 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />

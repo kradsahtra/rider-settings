@@ -79,12 +79,12 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="41" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/SuperSoyBoy/Assets/Scripts/SoyBoyController.cs" timestamp="1503197973757">
+      <file name="$USER_HOME$/workspace/SuperSoyBoy/Assets/Scripts/SoyBoyController.cs" timestamp="1503205399502">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="35" column="107" />
-        <mark key="]" line="36" column="77" />
-        <mark key="." line="36" column="77" />
-        <mark key="^" line="36" column="77" />
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Pickup.cs" timestamp="1499847660911">
         <mark key="[" line="8" column="41" />
@@ -277,7 +277,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
