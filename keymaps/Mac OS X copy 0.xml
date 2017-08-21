@@ -16,10 +16,22 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="InsertLiveTemplate" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="ReSharperGotoImplementation">
+    <keyboard-shortcut first-keystroke="meta j" />
   </action>
 </keymap>

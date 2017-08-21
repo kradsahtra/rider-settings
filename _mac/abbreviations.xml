@@ -1,20 +1,11 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="GotoSuperMethod">
-        <abbreviation name="definition" />
-        <abbreviation name="declaration" />
-        <abbreviation name="to" />
-        <abbreviation name="type" />
-        <abbreviation name="struct" />
-        <abbreviation name="super" />
-        <abbreviation name="class" />
+      <action id="RdExposingApiesNavigationAction">
         <abbreviation name="interface" />
-        <abbreviation name="this" />
-        <abbreviation name="navigate" />
-        <abbreviation name="Base" />
-        <abbreviation name="symbols" />
-        <abbreviation name="method" />
+        <abbreviation name="get" />
+        <abbreviation name="type" />
+        <abbreviation name="obtain" />
       </action>
       <action id="GotoSymbol">
         <abbreviation name="to" />
@@ -68,29 +59,21 @@
         <abbreviation name="symbol" />
         <abbreviation name="view" />
       </action>
-      <action id="GotoDeclaration">
-        <abbreviation name="to" />
-        <abbreviation name="navigate" />
-        <abbreviation name="this" />
+      <action id="GotoDeclaration" />
+      <action id="GotoSuperMethod">
         <abbreviation name="definition" />
-        <abbreviation name="signature" />
-        <abbreviation name="method" />
+        <abbreviation name="declaration" />
+        <abbreviation name="to" />
         <abbreviation name="type" />
         <abbreviation name="struct" />
+        <abbreviation name="super" />
         <abbreviation name="class" />
         <abbreviation name="interface" />
-      </action>
-      <action id="EditorCodeBlockStart">
-        <abbreviation name="to" />
-        <abbreviation name="type" />
-        <abbreviation name="struct" />
-        <abbreviation name="class" />
-        <abbreviation name="method" />
         <abbreviation name="this" />
         <abbreviation name="navigate" />
-        <abbreviation name="Containing" />
-        <abbreviation name="declaration" />
-        <abbreviation name="signature" />
+        <abbreviation name="Base" />
+        <abbreviation name="symbols" />
+        <abbreviation name="method" />
       </action>
       <action id="GotoTypeDeclaration">
         <abbreviation name="definition" />
@@ -117,11 +100,17 @@
         <abbreviation name="field" />
         <abbreviation name="internal" />
       </action>
-      <action id="RdExposingApiesNavigationAction">
-        <abbreviation name="interface" />
-        <abbreviation name="get" />
+      <action id="EditorCodeBlockStart">
+        <abbreviation name="to" />
         <abbreviation name="type" />
-        <abbreviation name="obtain" />
+        <abbreviation name="struct" />
+        <abbreviation name="class" />
+        <abbreviation name="method" />
+        <abbreviation name="this" />
+        <abbreviation name="navigate" />
+        <abbreviation name="Containing" />
+        <abbreviation name="declaration" />
+        <abbreviation name="signature" />
       </action>
       <action id="GotoFile">
         <abbreviation name="to" />
@@ -133,16 +122,9 @@
         <abbreviation name="lookup" />
       </action>
       <action id="GotoImplementation">
-        <abbreviation name="derived" />
-        <abbreviation name="implementation" />
-        <abbreviation name="Inheritors" />
-        <abbreviation name="interface" />
         <abbreviation name="Children" />
-        <abbreviation name="Inheritance" />
-        <abbreviation name="Hierarchy" />
         <abbreviation name="Sub" />
         <abbreviation name="type" />
-        <abbreviation name="struct" />
         <abbreviation name="class" />
         <abbreviation name="navigate" />
         <abbreviation name="to" />
@@ -157,13 +139,11 @@
         <abbreviation name="lookup" />
       </action>
       <action id="ReSharperGotoImplementation">
-        <abbreviation name="implementation" />
         <abbreviation name="body" />
         <abbreviation name="to" />
         <abbreviation name="type" />
         <abbreviation name="interface" />
         <abbreviation name="this" />
-        <abbreviation name="navigate" />
         <abbreviation name="derived" />
       </action>
       <action id="GotoAction">
