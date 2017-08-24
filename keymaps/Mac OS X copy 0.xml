@@ -10,27 +10,42 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift meta alt n" />
+    <keyboard-shortcut first-keystroke="meta alt p" />
+  </action>
   <action id="InsertLiveTemplate" />
+  <action id="IntroduceParameter" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
+  <action id="ParameterInfo" />
   <action id="ReSharperGotoImplementation">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
