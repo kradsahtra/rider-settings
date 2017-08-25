@@ -82,6 +82,12 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="16" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/Flight/Assets/Scripts/GameOver.cs" timestamp="1503671511437">
+        <mark key="[" line="25" column="58" />
+        <mark key="]" line="25" column="75" />
+        <mark key="." line="25" column="75" />
+        <mark key="^" line="25" column="75" />
+      </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/Shotgun.cs" timestamp="1499163173208">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="19" />
@@ -110,11 +116,11 @@
         <mark key="^" line="5" column="47" />
         <mark key="." line="5" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/Flight/Assets/Scripts/Difficulty.cs" timestamp="1503667658570">
-        <mark key="[" line="3" column="48" />
-        <mark key="]" line="3" column="52" />
-        <mark key="^" line="3" column="52" />
-        <mark key="." line="3" column="52" />
+      <file name="$USER_HOME$/workspace/Flight/Assets/Scripts/Difficulty.cs" timestamp="1503671738774">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="51" />
+        <mark key="^" line="6" column="51" />
+        <mark key="." line="6" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/BackgroundMusic.cs" timestamp="1499853557308">
         <mark key="[" line="4" column="22" />
@@ -122,10 +128,11 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/Flight/Assets/Scripts/Spawner.cs" timestamp="1503669182257">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="34" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/workspace/Flight/Assets/Scripts/Spawner.cs" timestamp="1503671647353">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="34" />
+        <mark key="^" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/RobotRampage/Assets/Scripts/GameUI.cs" timestamp="1499850750256">
         <mark key="'" line="18" column="34" />
@@ -134,12 +141,12 @@
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/Flight/Assets/Scripts/Player.cs" timestamp="1503666785392">
-        <mark key="'" line="3" column="13" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="26" column="29" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/workspace/Flight/Assets/Scripts/Player.cs" timestamp="1503671252077">
+        <mark key="'" line="8" column="25" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="32" />
+        <mark key="^" line="28" column="31" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ChaseGame/Assets/Player.cs" timestamp="1503294815388">
         <mark key="[" line="11" column="43" />
@@ -256,13 +263,14 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/Flight/Assets/Scripts/Player.cs" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/Flight/Assets/Scripts/Player.cs" />
       <jump line="3" column="13" filename="$USER_HOME$/workspace/Flight/Assets/Scripts/Player.cs" />
+      <jump line="8" column="25" filename="$USER_HOME$/workspace/Flight/Assets/Scripts/Player.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoX3NwYXduSW50ZXJ2YWwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>time</text>
       </register>
       <register name="-" type="4">
-        <text>_nextSpawnTime</text>
+        <text>time</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtX1BsYXllclw+</text>
@@ -271,31 +279,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmbG9hdCBNYXhTcGF3bkludGVydmFsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoX3NwYXduSW50ZXJ2YWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBGaW5kT2JqZWN0T2ZUeXBlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmbG9hdCBNaW5TcGF3bkludGVydmFsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVzdHJveShnYW1lT2JqZWN0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CS8vIFVzZSB0aGlzIGZvciBpbml0aWFsaXphdGlvbgoJdm9pZCBTdGFydCAoKSB7CgkJCgl9CgkKCS8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKCXZvaWQgVXBkYXRlICgpIHsKCQkKCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX25leHRTcGF3blRpbWUgKz0gX3NwYXduSW50ZXJ2YWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoX3NwYXduSW50ZXJ2YWwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmbG9hdCBNaW5GYWxsaW5nU3BlZWQgPSAzOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmbG9hdCBNaW5TcGF3bkludGVydmFsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmbG9hdCBNYXhGYWxsaW5nU3BlZWQgPSA3Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coImNvbGxpc2lvbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX25leHRTcGF3blRpbWUgKz0gX3NwYXduSW50ZXJ2YWw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yMy5mb3J3YXJkCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmbG9hdCBNaW5GYWxsaW5nU3BlZWQgPSAzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmbG9hdCBNYXhGYWxsaW5nU3BlZWQgPSA3Owo=</text>
       </register>
     </registers>
     <search>
